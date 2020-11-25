@@ -1,0 +1,5 @@
+in new directory, type npm init -y to initalize a node application
+in terminal, type npm i express
+create a js file called anything.js
+
+cool tool for node dev, nodemon - type npm i -g nodemon
